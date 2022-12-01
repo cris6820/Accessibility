@@ -1,4 +1,5 @@
 # Accessibility
+Deployed page: https://cris6820.github.io/Accessibility/
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -17,3 +18,5 @@ THEN I find a concise, descriptive title
 
 Little snipit:
 ![image](https://user-images.githubusercontent.com/107166355/204937919-49ea5f63-3b21-4a65-853d-408a07fc7beb.png)
+
+
